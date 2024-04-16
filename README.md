@@ -15,3 +15,5 @@ Develop a robust visualization toolset to represent USGS earthquake data accurat
 ## 4) Takeaways:
 - Effective visualization of scientific data promotes public awareness and informed decision-making.
 - Investing in data visualization capabilities can enhance disaster preparedness and environmental management strategies. It can also help secure funding by highlighting the importance and impact of USGS data.
+
+![Screenshot](https://github.com/vanillatyy1/15_Leaflet-challenge/blob/75d1164f17dd5a4dd4c5a6c9b12bd2d7205a838f/screenshot.png)
